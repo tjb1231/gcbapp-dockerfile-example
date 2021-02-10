@@ -13,4 +13,4 @@ options:
     machineType: 'N1_HIGHCPU_8'
 timeout: 660s
 tags: ['mytag1', 'mytag2']
-images: ['gcr.io/turnkey-clover-301421t/my-image']
+images: ['gcr.io/turnkey-clover-301421/my-image']
